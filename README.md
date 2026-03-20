@@ -195,7 +195,7 @@ app.post("/api/users", (req, res) => res.send("Create new user"));
 To run this project locally:
 # Clone the repository
 ```
-git clone https://github.com/codeby-david/expressjs-concepts.git
+git clone https://github.com/davemOps/expressjs-concepts.git
 
 cd expressjs-concepts
 
